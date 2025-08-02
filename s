@@ -1,1 +1,1 @@
-appliance-portrait-creator-partial.trycloudflare.comserver.com
+appliance-portrait-creator-partial.trycloudflare.com
